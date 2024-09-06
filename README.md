@@ -3,6 +3,8 @@
 # Overview
 Open Source Intelligence (OSINT) refers to the collection and analysis of publicly available data for intelligence purposes. This document outlines various tools and techniques used in OSINT.
 
+![OSINT](https://github.com/user-attachments/assets/e0979ce1-360f-4828-9b65-9acd95627db4)
+
 ## Tools
 
 # Search Engines
