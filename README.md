@@ -65,6 +65,7 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Email Investigation
 - Hunter.io: Find and verify email addresses.
 - EmailRep: Provides reputation scores for email addresses.
+- ProtOSINT: ProtOSINT is a Python script that helps you investigate ProtonMail accounts and ProtonVPN IP addresses.
 
 # Public Records
 - PACER: Access to U.S. federal court records.
