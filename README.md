@@ -5,43 +5,70 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 
 ## Tools
 
-# 1. Search Engines
+# Search Engines
 - Google Dorks: Advanced search queries to find specific information.
 - Bing: Alternative search engine with different indexing methods.
+  
+# Handwritten Notes Deciphering
+- Florence-2: As investigators, we often rely on handwritten notes that are vital to our work. Deciphering these notes can be quite time-consuming, but there's an excellent free online tool available: Florence-2, which can assist in this process.
 
-# 2. Social Media
+# Internet Conected Devices
+- Shodan.io: is a search engine designed to map and gather information about internet-connected devices and systems.
+- Censys.io: (www.censys.io) is a web-based search platform for assessing attack surface for Internet connected devices.
+- leakix.net: LeakIX is a red-team search engine indexing mis-configurations and vulnerabilities online.
+  
+# Social Media
 - Maltego: Visual link analysis tool for gathering information from social networks.
 - Social Search: Tools like Followerwonk for Twitter analysis.
 
-# 3. Domain and IP Information
+# Reverse Image Search
+- Yandex: the popular Russian search engine, offers a powerful reverse image search feature that allows users to find similar images online.
+- Bing Image Search: Powerful reverse image search feature that allows users to find similar images online.
+- Google Image Search: Powerful reverse image search feature that allows users to find similar images online.
+  
+# Forensic Image Analysis
+- Sherloq: Sherloq incorporates essential techniques such as photogrammetry, photographic comparison, content analysis, and image authentication, all of which are crucial for law enforcement and legal investigations.
+- GIMP: GIMP is a free and open-source raster graphics editor used for image manipulation, editing, and more
+
+#  WWW Internet Archive
+- http://web.archive.org/: The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive
+
+# Domain and IP Information
 - WHOIS Lookup: Tools like WHOIS.net to gather registration details.
 - DNS Lookup: Tools like MXToolbox for DNS records.
 
-# 4. Geolocation
+# Vehicle License Plate Recognition
+- platerecognizer.com : This is an incredible tool that helps you recognize and track license plates globally. Perfect for anyone in security, law enforcement, or research.
+- https://github.com/CScorza/Tool-VATINT : Powerful tool for investigating vehicle information
+
+# Wireless Geographic Logging Engine
+- WiGLE.NET is a website for collecting information about the different wireless hotspots around the world.
+
+# Geolocation
 - Google Maps: For analyzing locations.
 - ExifTool: Extracts metadata from images, including GPS coordinates.
 
-# 5. Web Scraping
+# Web Scraping
 - Beautiful Soup: Python library for parsing HTML and XML documents.
 - Scrapy: A powerful web scraping framework.
 
-# 6. Data Analysis
+# Data Analysis
 - Maltego: For link analysis and data mining.
 - Kali Linux: A Linux distribution with built-in OSINT tools.
 
-# 7. Threat Intelligence Platforms
+# Threat Intelligence Platforms
 - AlienVault OTX: Community-driven threat intelligence sharing.
 - ThreatCrowd: Search engine for threat intelligence.
 
-# 8. Email Investigation
+# Email Investigation
 - Hunter.io: Find and verify email addresses.
 - EmailRep: Provides reputation scores for email addresses.
 
-# 9. Public Records
+# Public Records
 - PACER: Access to U.S. federal court records.
 - OpenCorporates: Database of company information.
 
-# 10. Miscellaneous Tools
+# Miscellaneous Tools
 - Shodan: Search engine for Internet-connected devices.
 - Censys: Discover and analyze every device exposed to the internet.
 
