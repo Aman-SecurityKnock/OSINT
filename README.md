@@ -79,6 +79,10 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 
 #  WWW Internet Archive
 - http://web.archive.org/: The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive
+- [Archive.today](https://archive.today)
+- [WebCite](https://www.webcitation.org)
+- [Google Cache](https://cachedview.com)
+- [Wikiwix Archive](https://archive.wikiwix.com)
 
 # Domain and IP 
 - WHOIS Lookup: Tools like WHOIS.net to gather registration details.
