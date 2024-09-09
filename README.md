@@ -86,7 +86,8 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 
 # Vehicle License Plate Recognition
 - platerecognizer.com : This is an incredible tool that helps you recognize and track license plates globally. Perfect for anyone in security, law enforcement, or research.
-- https://github.com/CScorza/Tool-VATINT : Powerful tool for investigating vehicle information
+- [VATINT](https://github.com/CScorza/Tool-VATINT) : Powerful tool for investigating vehicle information
+- [PlatesMania](http://platesmania.com/?&lang=en)
 
 # Wireless Geographic Logging Engine
 - WiGLE.NET is a website for collecting information about the different wireless hotspots around the world.
