@@ -80,9 +80,21 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 #  WWW Internet Archive
 - http://web.archive.org/: The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive
 
-# Domain and IP Information
+# Domain and IP 
 - WHOIS Lookup: Tools like WHOIS.net to gather registration details.
 - DNS Lookup: Tools like MXToolbox for DNS records.
+- [IP Subnet by regions](https://github.com/ipverse/rir-ip)
+- [I Know What You Download](https://iknowwhatyoudownload.com/)
+- [InfoSniper](https://www.infosniper.net)
+- [InfoByIP](https://www.infobyip.com/)
+- [IP Investigation toolbox](https://cipher387.github.io/domain_investigation_toolbox/ip.html)
+- [Grabify](https://grabify.link)
+- [IPLogger](https://iplogger.org)
+- [IP Address Attack Surface](https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf)
+- [AbuseIPDB](https://www.abuseipdb.com)
+- [Shodan](https://www.shodan.io)
+- [Censys](https://search.censys.io)
+- [GreyNoise](https://viz.greynoise.io)
 
 # Vehicle License Plate Recognition
 - platerecognizer.com : This is an incredible tool that helps you recognize and track license plates globally. Perfect for anyone in security, law enforcement, or research.
