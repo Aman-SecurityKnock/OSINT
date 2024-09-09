@@ -10,6 +10,15 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Search Engines
 - Google Dorks: Advanced search queries to find specific information.
 - Bing: Alternative search engine with different indexing methods.
+
+# Maps
+- [Rutmap](https://www.rutmap.com/)
+- [Overpass Turbo](https://overpass-turbo.eu)
+- [Bellingcat OSM Search](https://osm-search.bellingcat.com)
+- [Bellingcat OSM Search (how to)](https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/)
+- [Baidu Maps](https://map.baidu.com)
+- [Sogou](https://pic.sogou.com)
+- [Google Earth](https://www.google.com/earth/versions/)
   
 # Handwritten Notes Deciphering
 - Florence-2: As investigators, we often rely on handwritten notes that are vital to our work. Deciphering these notes can be quite time-consuming, but there's an excellent free online tool available: Florence-2, which can assist in this process.
@@ -46,6 +55,9 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Forensic Image Analysis
 - Sherloq: Sherloq incorporates essential techniques such as photogrammetry, photographic comparison, content analysis, and image authentication, all of which are crucial for law enforcement and legal investigations.
 - GIMP: GIMP is a free and open-source raster graphics editor used for image manipulation, editing, and more
+- [Exif Viewer Pro](https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm)
+-  # Logo
+-  [Wipo](https://branddb.wipo.int/branddb/en/)
   
 - #Face Search
 - [PimEyes](https://pimeyes.com/en)
