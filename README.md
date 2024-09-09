@@ -22,6 +22,16 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Social Media
 - Maltego: Visual link analysis tool for gathering information from social networks.
 - Social Search: Tools like Followerwonk for Twitter analysis.
+- Twitter
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf)
+- [Twitter's Dorking Form](https://twitter.com/search-advanced)
+- [TweetBeaver](https://tweetbeaver.com)
+- [Twiangulate](https://twiangulate.com/search/)
+- [Hoaxy](https://hoaxy.osome.iu.edu)
+- [SocialBearing](https://socialbearing.com)
+- [Specific Locations]: {
+- [BirdHunt](https://birdhunt.co)
+- [TwitterFall](https://twitterfall.com)
 
 # Reverse Image Search
 - Yandex: the popular Russian search engine, offers a powerful reverse image search feature that allows users to find similar images online.
@@ -31,6 +41,41 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Forensic Image Analysis
 - Sherloq: Sherloq incorporates essential techniques such as photogrammetry, photographic comparison, content analysis, and image authentication, all of which are crucial for law enforcement and legal investigations.
 - GIMP: GIMP is a free and open-source raster graphics editor used for image manipulation, editing, and more
+  
+- #Face Search
+- [PimEyes](https://pimeyes.com/en)
+- [FaceCheck](https://facecheck.id)
+
+- #Search by terms  
+- [Imgur Search](https://imgur.com/search)
+- [Google Images](https://images.google.com)
+- [Yandex Images](https://yandex.com/images/)
+- [Bing Images](https://www.bing.com)
+- [Tineye](https://tineye.com)
+- [BaiduImages](https://www.baidu.com)
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.pdf)
+- [ShutterStock](https://www.shutterstock.com/)
+- [Alamy](https://www.alamy.com)
+- [Karma Decay (Reddit)](http://karmadecay.com)
+- [Search By Image](https://addons.mozilla.org/fr/firefox/addon/search_by_image/)
+- [Image Raider](https://infringement.report/api/raider-reverse-image-search/)
+- [RevEye](https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf)
+- [Image Identity](https://www.imageidentify.com)
+- [SauceNAO](https://saucenao.com)
+- [Google Lens](https://lens.google)
+- [Fake New Debunker](https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe)
+
+- #Tools 
+- [ImgOps](http://imgops.com/upload)
+- [Photoshop Online](https://www.photopea.com)
+        
+- #EXIF
+- [Exif Viewer Pro](https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm)
+        
+- #Logos
+- [Wipo](https://branddb.wipo.int/branddb/en/)
+            
+- [Image Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.pdf)
 
 #  WWW Internet Archive
 - http://web.archive.org/: The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive
@@ -49,6 +94,28 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Geolocation
 - Google Maps: For analyzing locations.
 - ExifTool: Extracts metadata from images, including GPS coordinates.
+  #Montains
+  
+- [PeakVisor](https://peakvisor.com)
+- #GEOINT Tips:
+- [Intersections on Google Maps](https://twitter.com/SEINT_pl/status/1493484660902576128)
+- [Geolocation with Mountains](https://www.youtube.com/watch?v=vNu2X7aCMkU)
+- [Identifying voltage levels of eletric lines](https://twitter.com/engineers_feed/status/1522799064852537344)
+- [GeoHints](https://www.geohints.com)
+- [InstaHunt](https://instahunt.com)
+- [HuntIntel](https://www.huntintel.io)
+- #Satellites:
+- [EarthOnDemand](https://earthondemand.astraea.earth)
+- #Street View:
+- [Infrared Street View](https://isv.intofuture.org/map)
+- #Maps:
+- [Rutmap](https://www.rutmap.com/)
+- [Overpass Turbo](https://overpass-turbo.eu)
+- [Bellingcat OSM Search](https://osm-search.bellingcat.com)
+- [Bellingcat OSM Search (how to)](https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/)
+- [Baidu Maps](https://map.baidu.com)
+- [Sogou](https://pic.sogou.com)
+- [Google Earth](https://www.google.com/earth/versions/)
 
 # Web Scraping
 - Beautiful Soup: Python library for parsing HTML and XML documents.
@@ -87,6 +154,14 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 - [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 - [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
+- [OSINT Industries](https://osint.industries)
+- [holehe](https://github.com/megadose/holehe)
+- [GHunt](https://github.com/mxrch/GHunt)
+- [MailCat](https://github.com/sharsil/mailcat)
+- [Epieos](https://tools.epieos.com/)
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf)
+- [Verify-Email](https://verify-email.org)
+- [Censored Domain finder](https://github.com/novitae/Aet-s-Tools/tree/main/EmDoFi)
 
   
 # Public Records
