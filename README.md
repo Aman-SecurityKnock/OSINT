@@ -14,6 +14,11 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Handwritten Notes Deciphering
 - Florence-2: As investigators, we often rely on handwritten notes that are vital to our work. Deciphering these notes can be quite time-consuming, but there's an excellent free online tool available: Florence-2, which can assist in this process.
 
+# URLs
+- [Unfurl](https://dfir.blog/unfurl)
+- [Shortlink verification](https://seintpl.github.io/osint/short-links-verification-cheatsheet)
+- [Where does this link goes](https://wheregoes.com)
+
 # Internet Conected Devices
 - Shodan.io: is a search engine designed to map and gather information about internet-connected devices and systems.
 - Censys.io: (www.censys.io) is a web-based search platform for assessing attack surface for Internet connected devices.
@@ -184,6 +189,7 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Public Records
 - PACER: Access to U.S. federal court records.
 - OpenCorporates: Database of company information.
+- [Offshore Leaks Database](https://offshoreleaks.icij.org)
 
 # Miscellaneous Tools
 - Shodan: Search engine for Internet-connected devices.
