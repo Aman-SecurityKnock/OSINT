@@ -58,7 +58,7 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - [Hoaxy](https://hoaxy.osome.iu.edu0)
 
 - [SocialBearing](https://socialbearing.com)
-- 
+  
 #Specific Locations 
 - [BirdHunt](https://birdhunt.co)
 - [TwitterFall](https://twitterfall.com)
