@@ -46,22 +46,24 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - [Specific Locations]: {
 - [BirdHunt](https://birdhunt.co)
 - [TwitterFall](https://twitterfall.com)
--#Twitter
+  
+#Twitter
 - [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf)
 - [Twitter's Dorking Form](https://twitter.com/search-advanced)
 - [TweetBeaver](https://tweetbeaver.com)
 
--#Visualization
+#Visualization
 - [Twiangulate](https://twiangulate.com/search/)
-- [Hoaxy](https://hoaxy.osome.iu.edu0
+- [Hoaxy](https://hoaxy.osome.iu.edu0)
 
 - [SocialBearing](https://socialbearing.com)
--#Specific Locations 
+- 
+#Specific Locations 
 - [BirdHunt](https://birdhunt.co)
 - [TwitterFall](https://twitterfall.com)
 
 
--#Instagram
+#Instagram
 - [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf)
 - [Toutatis](https://github.com/megadose/toutatis)
 - [Sterra](https://github.com/novitae/sterraxcyl)
@@ -70,58 +72,58 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - [View Private Accounts](https://www.aware-online.com/en/osint-tutorials/view-private-instagram-accounts/)
 - [Tenai](https://github.com/novitae/Tenai)
 
--#Reddit
+#Reddit
 - [SocialGrep](https://socialgrep.com)
 - [Snooper](https://github.com/NicholasDollick/Snooper)
 - [Reddective](https://www.redective.com)
 - [RedditMetis](https://redditmetis.com)
 
--#Discord 
+#Discord 
 - [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf)
 - [Discord ID](https://discord.id)
 - [Discord Snowflake](https://snowsta.mp)
 
--#Youtube
+#Youtube
 - [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf)
 
 - [Password Recovery](https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf)
 
--#GitHub 
+#GitHub 
 - [GitFive](https://github.com/mxrch/GitFive)
 - [ZEN](https://github.com/s0md3v/Zen)
 - [Github Dorks](https://github.com/techgaun/github-dorks)
 - [Github Code Search](https://cs.github.com)
 
--#Twitch
+#Twitch
 - [Infos on User](https://twitter.com/cyb_detective/status/1489731978081538051)
 - [JustLog](https://logs.ivr.fi)
 - [Pogu.live](https://pogu.live)
 - [TwitchDatabase](https://www.twitchdatabase.com/following)
 
--#Telegram
+#Telegram
 - [Telegram Fundamentals](https://www.cqcore.uk/telegram-fundamentals/)
 - [Telescan](https://github.com/pielco11/telescan)
 - [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map)
 
--#Apple
+#Apple
 - [Py-iMessage](https://github.com/Rolstenhouse/py-iMessage)
 
 -#File hosting
 - [XeuLeDoc](https://github.com/Malfrats/xeuledoc)
 
--#Linkedin
+#Linkedin
 - [Nqntnqnqmb](https://github.com/megadose/nqntnqnqmb)
 - [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Attack%20Surface.pdf)
 - [Techniques](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Techniques%20Part%20I%20and%20II.pdf)
 - [Revealin](https://github.com/mxrch/revealin)
 - [Linkedin Google Dorks](https://github.com/krlabs/linkedin-dorks)
 
--#Pinterest
+#Pinterest
 - [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf)
 - [Bypass Login Popup](https://mobile.twitter.com/ohshint_/status/1459737802296348673)
 - [Pinterest Downloader](https://github.com/limkokhole/pinterest-downloader)
 
--#Other
+#Other
 - [Alfred OSINT](https://github.com/Alfredredbird/alfred)
 
 # Reverse Image Search
