@@ -28,6 +28,20 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - [Shortlink verification](https://seintpl.github.io/osint/short-links-verification-cheatsheet)
 - [Where does this link goes](https://wheregoes.com)
 
+# Data Lookup
+
+#Leaked Database
+- [Leak-Lookup](https://leak-lookup.com)
+- [IntelligenceX](https://intelx.io)
+
+- [HaveIBeenPwned](https://haveibeenpwned.com)
+- [DeHashed](https://www.dehashed.com)
+            
+- [Epieos](https://tools.epieos.com/)
+- [OSINT Industries](https://osint.industries)
+- [Lampyre.io](https://lampyre.io)
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
+
 # Internet Conected Devices
 - Shodan.io: is a search engine designed to map and gather information about internet-connected devices and systems.
 - Censys.io: (www.censys.io) is a web-based search platform for assessing attack surface for Internet connected devices.
