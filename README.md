@@ -145,6 +145,35 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - Yandex: the popular Russian search engine, offers a powerful reverse image search feature that allows users to find similar images online.
 - Bing Image Search: Powerful reverse image search feature that allows users to find similar images online.
 - Google Image Search: Powerful reverse image search feature that allows users to find similar images online.
+
+# Transportation
+
+#Planes
+- [FlightRadar24](https://www.flightradar24.com)
+
+#Ships
+- [MarineTraffic](https://www.marinetraffic.com/)
+- [VesselFinder](https://www.vesselfinder.com/)
+
+#Trains
+- [Openrailway Map](https://www.openrailwaymap.org)
+- [Railway Cams](https://www.railserve.com/RailCams/)
+
+#License Plates
+- [PlatesMania](http://platesmania.com/?&lang=en)
+
+# Military
+
+#Ships
+- [Military Ships Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html)
+          
+#Air
+- [Google Military Airbase](https://twitter.com/terryzim/status/1315957946594066433)
+         
+- [Camopedia](https://www.camopedia.org/index.php/Main_Page)
+- [Military and Conflict GIJN Database](https://docs.google.com/spreadsheets/d/1wiIVKdvn8QSBQ1LGB9kiGrB28SYFblbZ7uM4uKSWFfU/edit#gid=0)
+- [Historical Tanks Wiki (WoT)](https://worldoftanks.com/en/tankopedia/)
+- [Ammunitions Wiki](http://www.cartrology.com)
   
 # Forensic Image Analysis
 - Sherloq: Sherloq incorporates essential techniques such as photogrammetry, photographic comparison, content analysis, and image authentication, all of which are crucial for law enforcement and legal investigations.
