@@ -1,6 +1,6 @@
-## OSINT Tools and Techniques
+# OSINT Tools and Techniques
 
-# Overview
+## Overview
 Open Source Intelligence (OSINT) refers to the collection and analysis of publicly available data for intelligence purposes. This document outlines various tools and techniques used in OSINT.
 
 ![OSINT (1)](https://github.com/user-attachments/assets/2e72f7f8-b66c-4db3-8d68-f7074b7e8f68)
