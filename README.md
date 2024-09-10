@@ -46,6 +46,83 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - [Specific Locations]: {
 - [BirdHunt](https://birdhunt.co)
 - [TwitterFall](https://twitterfall.com)
+-#Twitter
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf)
+- [Twitter's Dorking Form](https://twitter.com/search-advanced)
+- [TweetBeaver](https://tweetbeaver.com)
+
+-#Visualization
+- [Twiangulate](https://twiangulate.com/search/)
+- [Hoaxy](https://hoaxy.osome.iu.edu0
+
+- [SocialBearing](https://socialbearing.com)
+-#Specific Locations 
+- [BirdHunt](https://birdhunt.co)
+- [TwitterFall](https://twitterfall.com)
+
+
+-#Instagram
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf)
+- [Toutatis](https://github.com/megadose/toutatis)
+- [Sterra](https://github.com/novitae/sterraxcyl)
+- [InstaTrack](https://github.com/Snbig/InstaTrack)
+- [OSINTGram](https://github.com/Datalux/Osintgram)
+- [View Private Accounts](https://www.aware-online.com/en/osint-tutorials/view-private-instagram-accounts/)
+- [Tenai](https://github.com/novitae/Tenai)
+
+-#Reddit
+- [SocialGrep](https://socialgrep.com)
+- [Snooper](https://github.com/NicholasDollick/Snooper)
+- [Reddective](https://www.redective.com)
+- [RedditMetis](https://redditmetis.com)
+
+-#Discord 
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf)
+- [Discord ID](https://discord.id)
+- [Discord Snowflake](https://snowsta.mp)
+
+-#Youtube
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf)
+
+- [Password Recovery](https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf)
+
+-#GitHub 
+- [GitFive](https://github.com/mxrch/GitFive)
+- [ZEN](https://github.com/s0md3v/Zen)
+- [Github Dorks](https://github.com/techgaun/github-dorks)
+- [Github Code Search](https://cs.github.com)
+
+-#Twitch
+- [Infos on User](https://twitter.com/cyb_detective/status/1489731978081538051)
+- [JustLog](https://logs.ivr.fi)
+- [Pogu.live](https://pogu.live)
+- [TwitchDatabase](https://www.twitchdatabase.com/following)
+
+-#Telegram
+- [Telegram Fundamentals](https://www.cqcore.uk/telegram-fundamentals/)
+- [Telescan](https://github.com/pielco11/telescan)
+- [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map)
+
+-#Apple
+- [Py-iMessage](https://github.com/Rolstenhouse/py-iMessage)
+
+-#File hosting
+- [XeuLeDoc](https://github.com/Malfrats/xeuledoc)
+
+-#Linkedin
+- [Nqntnqnqmb](https://github.com/megadose/nqntnqnqmb)
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Attack%20Surface.pdf)
+- [Techniques](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Techniques%20Part%20I%20and%20II.pdf)
+- [Revealin](https://github.com/mxrch/revealin)
+- [Linkedin Google Dorks](https://github.com/krlabs/linkedin-dorks)
+
+-#Pinterest
+- [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf)
+- [Bypass Login Popup](https://mobile.twitter.com/ohshint_/status/1459737802296348673)
+- [Pinterest Downloader](https://github.com/limkokhole/pinterest-downloader)
+
+-#Other
+- [Alfred OSINT](https://github.com/Alfredredbird/alfred)
 
 # Reverse Image Search
 - Yandex: the popular Russian search engine, offers a powerful reverse image search feature that allows users to find similar images online.
@@ -81,6 +158,7 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - [SauceNAO](https://saucenao.com)
 - [Google Lens](https://lens.google)
 - [Fake New Debunker](https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe)
+- [Cache and Archive search](https://cipher387.github.io/quickcacheandarchivesearch/)
 
 - #Tools 
 - [ImgOps](http://imgops.com/upload)
@@ -128,9 +206,10 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Geolocation
 - Google Maps: For analyzing locations.
 - ExifTool: Extracts metadata from images, including GPS coordinates.
-  #Montains
   
+-  #Montains:
 - [PeakVisor](https://peakvisor.com)
+  
 - #GEOINT Tips:
 - [Intersections on Google Maps](https://twitter.com/SEINT_pl/status/1493484660902576128)
 - [Geolocation with Mountains](https://www.youtube.com/watch?v=vNu2X7aCMkU)
@@ -142,6 +221,7 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 - [EarthOnDemand](https://earthondemand.astraea.earth)
 - #Street View:
 - [Infrared Street View](https://isv.intofuture.org/map)
+  
 - #Maps:
 - [Rutmap](https://www.rutmap.com/)
 - [Overpass Turbo](https://overpass-turbo.eu)
@@ -206,6 +286,8 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 # Miscellaneous Tools
 - Shodan: Search engine for Internet-connected devices.
 - Censys: Discover and analyze every device exposed to the internet.
+# World-Wide OSINT Map
+- [WW Osint Map](https://cybdetective.com/osintmap/)
 
 ## Techniques
 
