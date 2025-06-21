@@ -79,6 +79,9 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 
 
 #Instagram
+- [Dumpor.io](https://dumpor.io/)
+- [InsTrack.app](https://instrack.app/)
+- [InstaClip](https://instaclip.app/)
 - [Attack Surface](https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf)
 - [Toutatis](https://github.com/megadose/toutatis)
 - [Sterra](https://github.com/novitae/sterraxcyl)
@@ -220,6 +223,7 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 
 #  WWW Internet Archive
 - http://web.archive.org/: The Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive
+- [Wayback-Google-Analytics](https://github.com/bellingcat/wayback-google-analytics)
 - [Archive.today](https://archive.today)
 - [WebCite](https://www.webcitation.org)
 - [Google Cache](https://cachedview.com)
