@@ -143,6 +143,7 @@ Open Source Intelligence (OSINT) refers to the collection and analysis of public
 
 #Other
 - [Alfred OSINT](https://github.com/Alfredredbird/alfred)
+- https://www.eyedex.org/
 
 # Reverse Image Search
 - Yandex: the popular Russian search engine, offers a powerful reverse image search feature that allows users to find similar images online.
